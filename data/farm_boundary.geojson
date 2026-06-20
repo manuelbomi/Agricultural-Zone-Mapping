@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "name": "farm_boundary_kansas",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-98.0300, 38.5200],
+          [-97.9750, 38.5200],
+          [-97.9750, 38.4850],
+          [-98.0300, 38.4850],
+          [-98.0300, 38.5200]
+        ]]
+      },
+      "properties": {
+        "farm_id": "KS-FARM-001",
+        "farm_name": "Rolling Prairie Farm",
+        "owner": "Emmanuel Oyekanlu Agricultural Holdings",
+        "county": "Ellsworth",
+        "state": "KS",
+        "total_area_ha": 498.7,
+        "acquisition_year": 2018,
+        "primary_enterprise": "grain_crop",
+        "notes": "Prime farmland in central Kansas wheat belt"
+      }
+    }
+  ]
+}

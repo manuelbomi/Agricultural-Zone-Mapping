@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "name": "soil_types_kansas_farm",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-98.0300, 38.5200], [-98.0150, 38.5200],
+          [-98.0150, 38.5025], [-98.0300, 38.5025],
+          [-98.0300, 38.5200]
+        ]]
+      },
+      "properties": {
+        "soil_id": "KS-S001",
+        "soil_type": "Silty Clay Loam",
+        "series_name": "Harney",
+        "ph": 6.4,
+        "organic_matter_pct": 3.2,
+        "cec_meq_100g": 28.5,
+        "available_water_in": 8.5,
+        "drainage_class": "well drained",
+        "capability_class": "IIe"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-98.0150, 38.5200], [-97.9900, 38.5200],
+          [-97.9900, 38.5050], [-98.0150, 38.5050],
+          [-98.0150, 38.5200]
+        ]]
+      },
+      "properties": {
+        "soil_id": "KS-S002",
+        "soil_type": "Silt Loam",
+        "series_name": "Crete",
+        "ph": 6.8,
+        "organic_matter_pct": 2.9,
+        "cec_meq_100g": 24.1,
+        "available_water_in": 9.2,
+        "drainage_class": "moderately well drained",
+        "capability_class": "IIe"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-97.9900, 38.5200], [-97.9750, 38.5200],
+          [-97.9750, 38.5025], [-97.9900, 38.5025],
+          [-97.9900, 38.5200]
+        ]]
+      },
+      "properties": {
+        "soil_id": "KS-S003",
+        "soil_type": "Sandy Loam",
+        "series_name": "Pratt",
+        "ph": 7.2,
+        "organic_matter_pct": 1.4,
+        "cec_meq_100g": 10.8,
+        "available_water_in": 4.1,
+        "drainage_class": "excessively drained",
+        "capability_class": "IVs"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-98.0300, 38.5025], [-98.0100, 38.5025],
+          [-98.0100, 38.4850], [-98.0300, 38.4850],
+          [-98.0300, 38.5025]
+        ]]
+      },
+      "properties": {
+        "soil_id": "KS-S004",
+        "soil_type": "Silty Clay",
+        "series_name": "Ladysmith",
+        "ph": 6.1,
+        "organic_matter_pct": 3.8,
+        "cec_meq_100g": 35.2,
+        "available_water_in": 7.9,
+        "drainage_class": "somewhat poorly drained",
+        "capability_class": "IIIw"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-98.0100, 38.5025], [-97.9900, 38.5025],
+          [-97.9900, 38.4925], [-98.0100, 38.4925],
+          [-98.0100, 38.5025]
+        ]]
+      },
+      "properties": {
+        "soil_id": "KS-S005",
+        "soil_type": "Clay Loam",
+        "series_name": "Richfield",
+        "ph": 6.6,
+        "organic_matter_pct": 2.6,
+        "cec_meq_100g": 22.4,
+        "available_water_in": 7.3,
+        "drainage_class": "well drained",
+        "capability_class": "IIe"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-97.9900, 38.5025], [-97.9750, 38.5025],
+          [-97.9750, 38.4850], [-97.9900, 38.4850],
+          [-97.9900, 38.5025]
+        ]]
+      },
+      "properties": {
+        "soil_id": "KS-S006",
+        "soil_type": "Fine Sandy Loam",
+        "series_name": "Ness",
+        "ph": 7.5,
+        "organic_matter_pct": 1.8,
+        "cec_meq_100g": 13.6,
+        "available_water_in": 5.4,
+        "drainage_class": "well drained",
+        "capability_class": "IIIs"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-98.0300, 38.4850], [-98.0100, 38.4850],
+          [-98.0100, 38.4850], [-98.0100, 38.4850],
+          [-98.0300, 38.4850]
+        ]]
+      },
+      "properties": {
+        "soil_id": "KS-S007",
+        "soil_type": "Loam",
+        "series_name": "Geary",
+        "ph": 6.9,
+        "organic_matter_pct": 2.2,
+        "cec_meq_100g": 18.9,
+        "available_water_in": 6.8,
+        "drainage_class": "well drained",
+        "capability_class": "IIe"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-98.0100, 38.4925], [-97.9750, 38.4925],
+          [-97.9750, 38.4850], [-98.0100, 38.4850],
+          [-98.0100, 38.4925]
+        ]]
+      },
+      "properties": {
+        "soil_id": "KS-S008",
+        "soil_type": "Silty Clay Loam",
+        "series_name": "Smolan",
+        "ph": 6.3,
+        "organic_matter_pct": 3.5,
+        "cec_meq_100g": 30.1,
+        "available_water_in": 8.9,
+        "drainage_class": "moderately well drained",
+        "capability_class": "IIw"
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 # Agricultural Zone Mapping
-**Author:** Emmanuel Oyekanlu — Principal Data Engineer  
+**Author:** Emmanuel Oyekanlu — Principal AI/Data Solutions Engineer  
 **Focus:** Precision agriculture zone mapping, management zone delineation, and variable rate prescription generation
 
 ---
